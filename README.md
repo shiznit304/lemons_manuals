@@ -1,2 +1,2 @@
 # lemons_manuals
-download link for the torrent
+download lemon-manuals.txt and rename to .torrent
